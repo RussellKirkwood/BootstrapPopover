@@ -86,8 +86,8 @@ in the Controller / Action
 
 public string actionname(string id)
         {    
-            var datatoreturn = "";           
-            datatoreturn += "<div style=font-size:x-small;><a href=https://XXXXX/?String=XXXXXX target=_blank>XXXX</a></div>";   
-            return datatoreturn;
+            var stringreturned = "";           
+            stringreturned += "<div style=font-size:x-small;><a href=https://XXXXX/?String=XXXXXX target=_blank>XXXX</a></div>";   
+            return stringreturned;
         }
 </pre>
