@@ -1,4 +1,4 @@
-# BootstrapPopover
+# Bootstrap Popover
 Bootstrap Popover
 
 Developing a Popover using the Bootstrap framework on .net
