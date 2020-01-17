@@ -12,7 +12,7 @@ needs:
 
 In the html page:
 
-'''
+<pre>
 @section Scripts {   
 
     <script type="text/javascript">
@@ -90,4 +90,4 @@ public string actionname(string id)
             datatoreturn += "<div style=font-size:x-small;><a href=https://XXXXX/?String=XXXXXX target=_blank>XXXX</a></div>";   
             return datatoreturn;
         }
-'''
+</pre>
