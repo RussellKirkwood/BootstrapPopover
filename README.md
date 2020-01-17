@@ -12,6 +12,7 @@ needs:
 
 In the html page:
 
+'''
 @section Scripts {   
 
     <script type="text/javascript">
@@ -75,11 +76,9 @@ In the html page:
     }
 </style>
 
-somewhere in the html page you need to refer to popover
-
 <td style="font-size:10px;">                    
                         <u style="padding-left:5px" data-toggle=popoverfull value="XXXXX">XXXXX</u> 
-                </td>      
+</td>      
 
 ---------------------------------------------------------------------------------------
 
@@ -91,4 +90,4 @@ public string actionname(string id)
             datatoreturn += "<div style=font-size:x-small;><a href=https://XXXXX/?String=XXXXXX target=_blank>XXXX</a></div>";   
             return datatoreturn;
         }
-
+'''
