@@ -11,7 +11,7 @@ needs:
 
 
 In the html page:
-
+```
 <pre>
 @section Scripts {   
 
@@ -94,3 +94,5 @@ public string actionname(string id)
             return stringreturned;
         }
 </pre>
+
+```
