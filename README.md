@@ -76,6 +76,9 @@ In the html page:
     }
 </style>
 
+-------------------------------------------------------------------------------------------
+in the HTML
+
 <td style="font-size:10px;">                    
                         <u style="padding-left:5px" data-toggle=popoverfull value="XXXXX">XXXXX</u> 
 </td>      
